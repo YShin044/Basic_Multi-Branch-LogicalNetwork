@@ -3,7 +3,7 @@
 <p align="center">
   <em>"This project was created as a practice exercise to strengthen my networking skills in preparation for the CCNA certification. As such, it may contain certain limitations or inaccuracies and should be considered for reference purposes only."</em>
   <br/><br/>
-  <img src="URL_TO_YOUR_FULL_TOPOLOGY_IMAGE" alt="Full Network Topology">
+  <img src="https://github.com/YShin044/Basic_Multi-Branch-LogicalNetwork/blob/master/assets/Topology.jpg" alt="Full Network Topology">
 </p>
 
 ## ► Project Overview
