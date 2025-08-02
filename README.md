@@ -1,9 +1,20 @@
 # Enterprise Network Architecture & Security Lab
 
 <p align="center">
-  <em>"This project was created as a practice exercise to strengthen my networking skills in preparation for the CCNA certification. As such, it may contain certain limitations or inaccuracies and should be considered for reference purposes only."</em>
+ <em>**** A comprehensive Cisco Packet Tracer simulation of a secure, multi-branch enterprise network. ****</em>
+ <br> <em> "This project was created as a practice exercise to strengthen my networking skills in preparation for the CCNA certification. As such, it may contain certain limitations or inaccuracies and should be considered for reference purposes only."</em> </br>
   <br/><br/>
   <img src="https://github.com/YShin044/Basic_Multi-Branch-LogicalNetwork/blob/master/assets/Topology.jpg" alt="Full Network Topology">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer"/>
+  <img src="https://img.shields.io/badge/TCP/IP-000000?style=for-the-badge" alt="TCP/IP"/>
+  <img src="https://img.shields.io/badge/EIGRP-ED1C24?style=for-the-badge" alt="EIGRP"/>
+  <img src="https://img.shields.io/badge/HSRP-4A90E2?style=for-the-badge" alt="HSRP"/>
+  <img src="https://img.shields.io/badge/VLAN-8A2BE2?style=for-the-badge" alt="VLAN"/>
+  <img src="https://img.shields.io/badge/Cisco%20ASA-ED1C24?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco ASA"/>
+  <img src="https://img.shields.io/badge/IPSec%20VPN-0059B3?style=for-the-badge" alt="IPSec VPN"/>
 </p>
 
 ## ► Project Overview
@@ -109,4 +120,6 @@ This project is a practical application of key concepts from the CCNA curriculum
 
 ---
 
-*"This project was created as a practice exercise to strengthen my networking skills in preparation for the CCNA certification. As such, it may contain certain limitations or inaccuracies and should be considered for reference purposes only."*
+<p align="center">
+  <em>"This project was created as a practice exercise to strengthen my networking skills in preparation for the CCNA certification. As such, it may contain certain limitations or inaccuracies and should be considered for reference purposes only."</em>
+</p>
